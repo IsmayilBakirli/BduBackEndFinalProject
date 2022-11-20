@@ -1,0 +1,12 @@
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\bin\Release\net6.0\Exceptions.deps.json
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\bin\Release\net6.0\Exceptions.dll
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\bin\Release\net6.0\Exceptions.pdb
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\Exceptions.dll
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\refint\Exceptions.dll
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\Exceptions.pdb
+C:\Users\ismayıl\Desktop\FinalProject\Exceptions\obj\Release\net6.0\ref\Exceptions.dll
